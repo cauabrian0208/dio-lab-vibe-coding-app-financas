@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-PLD refinado no Copilot web:
+PRD refinado no Copilot web:
 
 ```markdown 
 PRD – Aplicativo de Organização de Finanças Pessoais
